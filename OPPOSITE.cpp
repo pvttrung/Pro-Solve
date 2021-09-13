@@ -1,3 +1,6 @@
+//Problem source: B. Who's Opposite?
+//http://codeforces.com/problemset/problem/1560/B
+//Type: bruteforce, math, *800
 #include<fstream>
 #include<stdlib.h>
 using namespace std;
