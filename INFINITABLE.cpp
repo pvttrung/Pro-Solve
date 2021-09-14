@@ -1,3 +1,7 @@
+//Problem source: C. Infinity Table
+//http://codeforces.com/problemset/problem/1560/C
+//Tag: implementation,math
+//Difficulty: 800
 #include<fstream>
 #include<tuple>
 using namespace std;
