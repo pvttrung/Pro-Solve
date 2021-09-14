@@ -1,6 +1,7 @@
 //Problem source: C. Compressed Bracket Sequence
 //https://codeforces.com/contest/1556/problem/C
 //Type: brute force, unoptimized
+//Difficulty: 1800
 #include<fstream>
 using namespace std;
 int j,limit=0,total;
